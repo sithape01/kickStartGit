@@ -6,5 +6,5 @@
  * Time: 18:50
  */
 class Features {
-	$feature = 'Feature from cool-new-feature';
+	$feature = 'Feature from feature';
 }
